@@ -3,6 +3,7 @@
   {
     "value": 7500,
     "name": "MacBook Air",
+    "type": "macbook",
     "srcImg": "https://i.imgur.com/MPKg16X.jpg",
     "description": "Macbook is very cool! dynamic description",
     "specifications": [
@@ -55,6 +56,7 @@
   {
     "value": 4000,
     "name": "Iphone 13",
+    "type": "iphone",
     "srcImg": "https://i.imgur.com/xs1Tyv4.jpg",
     "specifications": [
       {
@@ -107,6 +109,7 @@
   {
     "value": 6000,
     "name": "Mac Mini",
+    "type": "mac-mini",
     "srcImg": "https://i.imgur.com/9t6gtXV.png",
     "specifications": [
       {
@@ -158,6 +161,7 @@
   {
     "value": 8000,
     "name": "IPhone 14 Pro Max",
+    "type": "iphone",
     "srcImg": "https://i.imgur.com/e5QDo6w.png",
     "specifications": [
       {
@@ -202,6 +206,7 @@
   {
     "value": 24000,
     "name": "Mac Studio",
+    "type": "mac-studio",
     "srcImg": "https://i.imgur.com/gIsnqU1.jpg",
     "specifications": [
       {
