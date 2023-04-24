@@ -54,6 +54,56 @@
     ]
   },
   {
+      "value": 14000,
+      "name": "MacBook Pro 14\"",
+      "type": "macbook",
+      "srcImg": "https://i.imgur.com/xlV8lBV.jpg",
+      "description": "Super Macbook!",
+      "specifications": [
+        {
+          "title": "Processor",
+          "items": [
+            {
+              "name": "M1 max"
+            },
+            {
+              "name": "M2 max",
+              "value": 4000
+            }
+          ]
+        },
+        {
+          "title": "RAM",
+          "items": [
+            {
+              "name": "16 GB",
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "items": [
+            {
+              "name":"256 GB"
+            },
+            {
+              "name":"512 GB",
+              "value": 1000
+            },
+            {
+              "name":"1 TB",
+              "value": 1500
+            },
+            {
+              "name": "2 TB",
+              "value": 2000
+            }
+          ]
+        }
+      ]
+    },
+  {
     "value": 4000,
     "name": "Iphone 13",
     "type": "iphone",
@@ -106,58 +156,7 @@
       }
     ]
   },
-  {
-    "value": 6000,
-    "name": "Mac Mini",
-    "type": "mac-mini",
-    "srcImg": "https://i.imgur.com/9t6gtXV.png",
-    "specifications": [
-      {
-        "title": "Processor",
-        "items": [
-          {
-            "name": "M1 chip"
-          },
-          {
-            "name": "M2 chip",
-            "value": 3500
-          }
-        ]
-      },
-      {
-        "title": "RAM",
-        "items": [
-          {
-            "name": "8 GB"
-          },
-          {
-            "name": "16 GB",
-            "value": 1500
-          }
-        ]
-      },
-      {
-        "title": "Storage",
-        "items": [
-          {
-            "name":"256 GB"
-          },
-          {
-            "name":"512 GB",
-            "value": 200
-          },
-          {
-            "name":"1 TB",
-            "value": 800
-          },
-          {
-            "name": "2 TB",
-            "value": 1500
-          }
-        ]
-      }
-    ]
-  },
+
   {
     "value": 8000,
     "name": "IPhone 14 Pro Max",
@@ -203,6 +202,58 @@
       }
     ]
   },
+    {
+      "value": 6000,
+      "name": "Mac Mini",
+      "type": "mac-mini",
+      "srcImg": "https://i.imgur.com/9t6gtXV.png",
+      "specifications": [
+        {
+          "title": "Processor",
+          "items": [
+            {
+              "name": "M1 chip"
+            },
+            {
+              "name": "M2 chip",
+              "value": 3500
+            }
+          ]
+        },
+        {
+          "title": "RAM",
+          "items": [
+            {
+              "name": "8 GB"
+            },
+            {
+              "name": "16 GB",
+              "value": 1500
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "items": [
+            {
+              "name":"256 GB"
+            },
+            {
+              "name":"512 GB",
+              "value": 200
+            },
+            {
+              "name":"1 TB",
+              "value": 800
+            },
+            {
+              "name": "2 TB",
+              "value": 1500
+            }
+          ]
+        }
+      ]
+    },
   {
     "value": 24000,
     "name": "Mac Studio",
