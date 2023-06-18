@@ -7,7 +7,7 @@ const middlewares = jsonServer.defaults()
 
 server.use(middlewares)
 const corsOptions = {
-    origin: ['https://imports.vertocode.com*'], // Sets permission only for this domain and for all routes in this domain.
+    origin: ['*'], // Sets permission for all routes in any domain.
     optionsSuccessStatus: 200
 }
 server.use(cors(corsOptions))
