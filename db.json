@@ -1,59 +1,59 @@
 {
   "products": [
-  {
-    "value": 7500,
-    "name": "MacBook Air",
-    "type": "macbook",
-    "srcImg": "https://i.imgur.com/MPKg16X.jpg",
-    "description": "Macbook is very cool! dynamic description",
-    "specifications": [
-      {
-        "title": "Processor",
-        "items": [
-          {
-            "name": "M1 chip"
-          },
-          {
-            "name": "M2 chip",
-            "value": 4000
-          }
-        ]
-      },
-      {
-        "title": "RAM",
-        "items": [
-          {
-            "name": "8 GB"
-          },
-          {
-            "name": "16 GB",
-            "value": 2000
-          }
-        ]
-      },
-      {
-        "title": "Storage",
-        "items": [
-          {
-            "name":"256 GB"
-          },
-          {
-            "name":"512 GB",
-            "value": 1000
-          },
-          {
-            "name":"1 TB",
-            "value": 1500
-          },
-          {
-            "name": "2 TB",
-            "value": 2000
-          }
-        ]
-      }
-    ]
-  },
-  {
+    {
+      "value": 7500,
+      "name": "MacBook Air",
+      "type": "macbook",
+      "srcImg": "https://i.imgur.com/MPKg16X.jpg",
+      "description": "Macbook is very cool! dynamic description",
+      "specifications": [
+        {
+          "title": "Processor",
+          "items": [
+            {
+              "name": "M1 chip"
+            },
+            {
+              "name": "M2 chip",
+              "value": 4000
+            }
+          ]
+        },
+        {
+          "title": "RAM",
+          "items": [
+            {
+              "name": "8 GB"
+            },
+            {
+              "name": "16 GB",
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "items": [
+            {
+              "name": "256 GB"
+            },
+            {
+              "name": "512 GB",
+              "value": 1000
+            },
+            {
+              "name": "1 TB",
+              "value": 1500
+            },
+            {
+              "name": "2 TB",
+              "value": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
       "value": 14000,
       "name": "MacBook Pro 14\"",
       "type": "macbook",
@@ -85,14 +85,14 @@
           "title": "Storage",
           "items": [
             {
-              "name":"256 GB"
+              "name": "256 GB"
             },
             {
-              "name":"512 GB",
+              "name": "512 GB",
               "value": 1000
             },
             {
-              "name":"1 TB",
+              "name": "1 TB",
               "value": 1500
             },
             {
@@ -103,105 +103,104 @@
         }
       ]
     },
-  {
-    "value": 4000,
-    "name": "Iphone 13",
-    "type": "iphone",
-    "srcImg": "https://i.imgur.com/xs1Tyv4.jpg",
-    "specifications": [
-      {
-        "title": "Processor",
-        "items": [
-          {
-            "name": "2x 3.22 GHz Avalanche + 4x 1.82 GHz Blizzard",
-            "value": 500
-          }
-        ]
-      },
-      {
-        "title": "Camera",
-        "items": [
-          {
-            "name": "12 Mp"
-          },
-          {
-            "name": "14 Mp",
-            "value": 200
-          },
-          {
-            "name": "16 Mp",
-            "value": 400
-          }
-        ]
-      },
-      {
-        "title": "RAM",
-        "items": [
-          {
-            "name": "4 GB"
-          }
-        ]
-      },
-      {
-        "title": "Storage",
-        "items": [
-          {
-            "name": "256 GB"
-          },
-          {
-            "name": "512 GB",
-            "value": 1000
-          }
-        ]
-      }
-    ]
-  },
-
-  {
-    "value": 8000,
-    "name": "IPhone 14 Pro Max",
-    "type": "iphone",
-    "srcImg": "https://i.imgur.com/e5QDo6w.png",
-    "specifications": [
-      {
-        "title": "Color",
-        "items": [
-          {
-            "name": "Deep Purple"
-          },
-          {
-            "name": "Gold"
-          },
-          {
-            "name": "Silver"
-          },
-          {
-            "name": "Space Black"
-          }
-        ]
-      },
-      {
-        "title": "Storage",
-        "items": [
-          {
-            "name":"128GB"
-          },
-          {
-            "name":"256GB",
-            "value": 1500
-          },
-          {
-            "name":"512GB",
-            "value": 3000
-          },
-          {
-            "name":"1TB",
-            "value": 4000
-          }
-        ]
-      }
-    ]
-  },
+    {
+      "value": 4000,
+      "name": "Iphone 13",
+      "type": "iphone",
+      "srcImg": "https://i.imgur.com/xs1Tyv4.jpg",
+      "specifications": [
+        {
+          "title": "Processor",
+          "items": [
+            {
+              "name": "2x 3.22 GHz Avalanche + 4x 1.82 GHz Blizzard",
+              "value": 500
+            }
+          ]
+        },
+        {
+          "title": "Camera",
+          "items": [
+            {
+              "name": "12 Mp"
+            },
+            {
+              "name": "14 Mp",
+              "value": 200
+            },
+            {
+              "name": "16 Mp",
+              "value": 400
+            }
+          ]
+        },
+        {
+          "title": "RAM",
+          "items": [
+            {
+              "name": "4 GB"
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "items": [
+            {
+              "name": "256 GB"
+            },
+            {
+              "name": "512 GB",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 8000,
+      "name": "IPhone 14 Pro Max",
+      "type": "iphone",
+      "srcImg": "https://i.imgur.com/e5QDo6w.png",
+      "specifications": [
+        {
+          "title": "Color",
+          "items": [
+            {
+              "name": "Deep Purple"
+            },
+            {
+              "name": "Gold"
+            },
+            {
+              "name": "Silver"
+            },
+            {
+              "name": "Space Black"
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "items": [
+            {
+              "name": "128GB"
+            },
+            {
+              "name": "256GB",
+              "value": 1500
+            },
+            {
+              "name": "512GB",
+              "value": 3000
+            },
+            {
+              "name": "1TB",
+              "value": 4000
+            }
+          ]
+        }
+      ]
+    },
     {
       "value": 6000,
       "name": "Mac Mini",
@@ -236,14 +235,14 @@
           "title": "Storage",
           "items": [
             {
-              "name":"256 GB"
+              "name": "256 GB"
             },
             {
-              "name":"512 GB",
+              "name": "512 GB",
               "value": 200
             },
             {
-              "name":"1 TB",
+              "name": "1 TB",
               "value": 800
             },
             {
@@ -254,63 +253,530 @@
         }
       ]
     },
-  {
-    "value": 24000,
-    "name": "Mac Studio",
-    "type": "mac-studio",
-    "srcImg": "https://i.imgur.com/gIsnqU1.jpg",
-    "specifications": [
-      {
-        "title": "Processor",
-        "items": [
-          {
-            "name": "M1 Max | 10-core CPU | 32-core GPU"
-          },
-          {
-            "name": "M1 Ultra | 20-core cpu | 64-core GPU",
-            "value": 7000
-          }
-        ]
-      },
-      {
-        "title": "RAM",
-        "items": [
-          {
-            "name": "64 GB unified memory"
-          },
-          {
-            "name": "128 GB unified memory",
-            "value": 3000
-          }
-        ]
-      },
-      {
-        "title": "Storage",
-        "items": [
-          {
-            "name":"512GB SSD storage"
-          },
-          {
-            "name":"1TB SSD storage",
-            "value": 1000
-          },
-          {
-            "name":"2TB SSD storage",
-            "value": 2000
-          },
-          {
-            "name":"4TB SSD storage",
-            "value": 7000
-          },
-          {
-            "name":"8TB SSD storage",
-            "value": 15000
-          }
-        ]
-      }
-    ]
-  }
-],
+    {
+      "value": 24000,
+      "name": "Mac Studio",
+      "type": "mac-studio",
+      "srcImg": "https://i.imgur.com/gIsnqU1.jpg",
+      "specifications": [
+        {
+          "title": "Processor",
+          "items": [
+            {
+              "name": "M1 Max | 10-core CPU | 32-core GPU"
+            },
+            {
+              "name": "M1 Ultra | 20-core CPU | 64-core GPU",
+              "value": 7000
+            }
+          ]
+        },
+        {
+          "title": "RAM",
+          "items": [
+            {
+              "name": "64 GB unified memory"
+            },
+            {
+              "name": "128 GB unified memory",
+              "value": 3000
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "items": [
+            {
+              "name": "512GB SSD storage"
+            },
+            {
+              "name": "1TB SSD storage",
+              "value": 1000
+            },
+            {
+              "name": "2TB SSD storage",
+              "value": 2000
+            },
+            {
+              "name": "4TB SSD storage",
+              "value": 7000
+            },
+            {
+              "name": "8TB SSD storage",
+              "value": 14000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 15000,
+      "name": "iMac",
+      "type": "imac",
+      "srcImg": "https://i.imgur.com/wrrjX1f.jpg",
+      "description": "The all-in-one for all.",
+      "specifications": [
+        {
+          "title": "Processor",
+          "items": [
+            {
+              "name": "M1 chip"
+            },
+            {
+              "name": "M1 Pro chip",
+              "value": 4000
+            }
+          ]
+        },
+        {
+          "title": "RAM",
+          "items": [
+            {
+              "name": "8 GB"
+            },
+            {
+              "name": "16 GB",
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "items": [
+            {
+              "name": "256 GB"
+            },
+            {
+              "name": "512 GB",
+              "value": 1000
+            },
+            {
+              "name": "1 TB",
+              "value": 1500
+            },
+            {
+              "name": "2 TB",
+              "value": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 3500,
+      "name": "iPad Air",
+      "type": "ipad",
+      "srcImg": "https://i.imgur.com/96Fz4xh.jpg",
+      "specifications": [
+        {
+          "title": "Processor",
+          "items": [
+            {
+              "name": "A14 Bionic chip with Neural Engine"
+            },
+            {
+              "name": "A15 Bionic chip with Neural Engine",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "title": "Display",
+          "items": [
+            {
+              "name": "10.9-inch Liquid Retina display"
+            },
+            {
+              "name": "11-inch Liquid Retina display",
+              "value": 500
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "items": [
+            {
+              "name": "64 GB"
+            },
+            {
+              "name": "256 GB",
+              "value": 300
+            },
+            {
+              "name": "512 GB",
+              "value": 600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 9000,
+      "name": "iPad Pro",
+      "type": "ipad",
+      "srcImg": "https://i.imgur.com/Lru7JT7.jpg",
+      "specifications": [
+        {
+          "title": "Processor",
+          "items": [
+            {
+              "name": "M1 chip"
+            },
+            {
+              "name": "M1 Pro chip",
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "title": "Display",
+          "items": [
+            {
+              "name": "11-inch Liquid Retina XDR display"
+            },
+            {
+              "name": "12.9-inch Liquid Retina XDR display",
+              "value": 2000
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "items": [
+            {
+              "name": "128 GB"
+            },
+            {
+              "name": "256 GB",
+              "value": 500
+            },
+            {
+              "name": "512 GB",
+              "value": 1000
+            },
+            {
+              "name": "1 TB",
+              "value": 1500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 3000,
+      "name": "AirPods Pro",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/N5e9YtW.jpg",
+      "specifications": [
+        {
+          "title": "Active Noise Cancellation",
+          "items": [
+            {
+              "name": "Yes"
+            }
+          ]
+        },
+        {
+          "title": "Transparency Mode",
+          "items": [
+            {
+              "name": "Yes"
+            }
+          ]
+        },
+        {
+          "title": "Wireless Charging",
+          "items": [
+            {
+              "name": "Yes"
+            }
+          ]
+        },
+        {
+          "title": "Battery Life",
+          "items": [
+            {
+              "name": "Up to 4.5 hours"
+            },
+            {
+              "name": "Up to 24 hours with charging case"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 2000,
+      "name": "AirPods",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/RVCE9DA.jpg",
+      "specifications": [
+        {
+          "title": "Wireless Charging",
+          "items": [
+            {
+              "name": "Yes"
+            }
+          ]
+        },
+        {
+          "title": "Battery Life",
+          "items": [
+            {
+              "name": "Up to 5 hours"
+            },
+            {
+              "name": "Up to 24 hours with charging case"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 1000,
+      "name": "Apple Watch SE",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/BwJ7E08.jpg",
+      "specifications": [
+        {
+          "title": "Display",
+          "items": [
+            {
+              "name": "Retina OLED display"
+            }
+          ]
+        },
+        {
+          "title": "Battery Life",
+          "items": [
+            {
+              "name": "Up to 18 hours"
+            }
+          ]
+        },
+        {
+          "title": "Water Resistance",
+          "items": [
+            {
+              "name": "Water resistant up to 50 meters"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 4000,
+      "name": "Apple Watch Series 7",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/KsY9ZaV.jpg",
+      "specifications": [
+        {
+          "title": "Display",
+          "items": [
+            {
+              "name": "Always-On Retina display"
+            }
+          ]
+        },
+        {
+          "title": "Battery Life",
+          "items": [
+            {
+              "name": "Up to 18 hours"
+            }
+          ]
+        },
+        {
+          "title": "Water Resistance",
+          "items": [
+            {
+              "name": "Water resistant up to 50 meters"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 500,
+      "name": "Apple Pencil (1st generation)",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/2qPtLbi.jpg",
+      "specifications": [
+        {
+          "title": "Compatibility",
+          "items": [
+            {
+              "name": "iPad (6th and 7th generation), iPad Air (3rd generation), iPad mini (5th generation), iPad Pro 9.7-inch, iPad Pro 10.5-inch, iPad Pro 12.9-inch (1st and 2nd generation)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 600,
+      "name": "Apple Pencil (2nd generation)",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/LF90QOl.jpg",
+      "specifications": [
+        {
+          "title": "Compatibility",
+          "items": [
+            {
+              "name": "iPad Air (4th generation), iPad Pro 11-inch (1st and 2nd generation), iPad Pro 12.9-inch (3rd and 4th generation)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 500,
+      "name": "Magic Keyboard",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/mxWq6GO.jpg",
+      "specifications": [
+        {
+          "title": "Compatibility",
+          "items": [
+            {
+              "name": "iPad Air (4th generation), iPad Pro 11-inch (1st and 2nd generation), iPad Pro 12.9-inch (3rd and 4th generation)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 300,
+      "name": "Smart Keyboard Folio",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/sWwMh04.jpg",
+      "specifications": [
+        {
+          "title": "Compatibility",
+          "items": [
+            {
+              "name": "iPad Air (4th generation), iPad Pro 11-inch (1st and 2nd generation), iPad Pro 12.9-inch (3rd and 4th generation)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 1000,
+      "name": "Apple TV 4K",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/tfhxiIy.jpg",
+      "specifications": [
+        {
+          "title": "Resolution",
+          "items": [
+            {
+              "name": "4K"
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "items": [
+            {
+              "name": "32 GB"
+            },
+            {
+              "name": "64 GB",
+              "value": 200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 200,
+      "name": "Apple TV HD",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/d2ZLX1q.jpg",
+      "specifications": [
+        {
+          "title": "Resolution",
+          "items": [
+            {
+              "name": "1080p"
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "items": [
+            {
+              "name": "32 GB"
+            },
+            {
+              "name": "64 GB",
+              "value": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 1500,
+      "name": "HomePod mini",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/sIezKSW.jpg",
+      "specifications": [
+        {
+          "title": "Compatibility",
+          "items": [
+            {
+              "name": "iPhone SE (2nd generation), iPhone 6s or later, iPod touch (7th generation), iPad Pro, iPad (5th generation or later), iPad Air (3rd generation or later), iPad mini (5th generation or later)"
+            }
+          ]
+        },
+        {
+          "title": "Audio Technology",
+          "items": [
+            {
+              "name": "360-degree sound"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 500,
+      "name": "Apple MagSafe Charger",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/8aTJtQ3.jpg",
+      "specifications": [
+        {
+          "title": "Compatibility",
+          "items": [
+            {
+              "name": "iPhone 8 or later"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 100,
+      "name": "Apple Lightning to USB Cable",
+      "type": "accessory",
+      "srcImg": "https://i.imgur.com/lXSVWGH.jpg",
+      "specifications": [
+        {
+          "title": "Length",
+          "items": [
+            {
+              "name": "1 meter"
+            },
+            {
+              "name": "2 meters",
+              "value": 50
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "users": [
   {
     "id": 0,
