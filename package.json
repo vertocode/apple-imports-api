@@ -4,7 +4,7 @@
   "description": "Deploy JSON Server to Vercel",
   "main": "api/server.js",
   "scripts": {
-    "start": "json-server index.js"
+    "start": "node setup.js && node api/server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
